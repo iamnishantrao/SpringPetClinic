@@ -1,6 +1,7 @@
 package org.example.data.services.map;
 
 import org.example.data.model.PetType;
+import org.example.data.services.PetTypeService;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;
